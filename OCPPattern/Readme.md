@@ -1,0 +1,2 @@
+## Patrón de diseño OCP
+Éste patrón de diseño (Princiapio Abierto / Cerrado) consiste en que los módulos que componen el programa solo puedan ser extendidos cuando se quiera agregar una funcionalidad sin editar el código fuente, solamente se permite agregar código.
